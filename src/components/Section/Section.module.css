@@ -1,0 +1,17 @@
+.section {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+  box-shadow: 1px 4px 8px rgba(17, 1, 70, 0.5), 0px 4px 4px rgba(17, 1, 70, 0.3);
+  border: 3px solid rgb(17, 1, 70);
+}
+.section:not(:last-child) {
+  margin-bottom: 30px;
+}
+.title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 30px;
+  color: rgb(17, 1, 70);
+}

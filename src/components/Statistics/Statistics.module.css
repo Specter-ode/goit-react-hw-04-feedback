@@ -1,0 +1,10 @@
+.statistics__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.statistics__text {
+  font-size: 20px;
+  font-weight: 500;
+  color: rgb(17, 1, 70);
+}
